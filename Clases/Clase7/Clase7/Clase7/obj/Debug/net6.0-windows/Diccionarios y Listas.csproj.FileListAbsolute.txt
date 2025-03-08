@@ -1,0 +1,16 @@
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Diccionarios y Listas.exe
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Diccionarios y Listas.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Diccionarios y Listas.runtimeconfig.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Diccionarios y Listas.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Diccionarios y Listas.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.DiccionariosListas.resources
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Diccionarios y Listas.csproj.GenerateResource.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Diccionarios y Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Diccionarios y Listas.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Diccionarios y Listas.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Diccionarios y Listas.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Diccionarios y Listas.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\refint\Diccionarios y Listas.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Diccionarios y Listas.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Diccionarios y Listas.genruntimeconfig.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\ref\Diccionarios y Listas.dll

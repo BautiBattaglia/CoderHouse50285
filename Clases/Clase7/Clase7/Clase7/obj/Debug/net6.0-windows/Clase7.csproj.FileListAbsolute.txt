@@ -1,0 +1,16 @@
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Clase7.exe
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Clase7.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Clase7.runtimeconfig.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Clase7.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\bin\Debug\net6.0-windows\Clase7.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.Form1.resources
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.csproj.GenerateResource.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\refint\Clase7.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\Clase7.genruntimeconfig.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\Clase7\obj\Debug\net6.0-windows\ref\Clase7.dll

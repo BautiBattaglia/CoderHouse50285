@@ -1,0 +1,16 @@
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\bin\Debug\net6.0-windows\DiccionarioAnidado.exe
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\bin\Debug\net6.0-windows\DiccionarioAnidado.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\bin\Debug\net6.0-windows\DiccionarioAnidado.runtimeconfig.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\bin\Debug\net6.0-windows\DiccionarioAnidado.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\bin\Debug\net6.0-windows\DiccionarioAnidado.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\DiccionarioAnidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\DiccionarioAnidado.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\DiccionarioAnidado.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\DiccionarioAnidado.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\DiccionarioAnidado.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\refint\DiccionarioAnidado.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\DiccionarioAnidado.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\DiccionarioAnidado.genruntimeconfig.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\ref\DiccionarioAnidado.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\DiccionarioAnidado.DiccionarioAnidado.resources
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\DiccionarioAnidado\obj\Debug\net6.0-windows\DiccionarioAnidado.csproj.GenerateResource.cache

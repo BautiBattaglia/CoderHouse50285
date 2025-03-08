@@ -1,0 +1,17 @@
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\bin\Debug\net6.0-windows\Cookies Click.exe
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\bin\Debug\net6.0-windows\Cookies Click.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\bin\Debug\net6.0-windows\Cookies Click.runtimeconfig.json
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\bin\Debug\net6.0-windows\Cookies Click.dll
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\bin\Debug\net6.0-windows\Cookies Click.pdb
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies_Click.Form1.resources
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies_Click.Properties.Resources.resources
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies Click.csproj.GenerateResource.cache
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies Click.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies Click.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies Click.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies Click.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies Click.dll
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\refint\Cookies Click.dll
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies Click.pdb
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\Cookies Click.genruntimeconfig.cache
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Cookies Click\Cookies Click\obj\Debug\net6.0-windows\ref\Cookies Click.dll

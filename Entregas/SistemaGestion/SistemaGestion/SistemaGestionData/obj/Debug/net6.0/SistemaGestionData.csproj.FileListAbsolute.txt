@@ -1,0 +1,15 @@
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.dll
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.AssemblyReference.cache
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.csproj.CopyComplete
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.dll
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\refint\SistemaGestionData.dll
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\SistemaGestionData.pdb
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionData\obj\Debug\net6.0\ref\SistemaGestionData.dll

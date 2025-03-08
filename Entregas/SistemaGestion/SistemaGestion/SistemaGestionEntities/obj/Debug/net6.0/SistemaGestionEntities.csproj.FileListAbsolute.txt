@@ -1,0 +1,12 @@
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Users\bautista\Documents\Coder House\C#\Entregas\SistemaGestion\SistemaGestion\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache

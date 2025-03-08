@@ -1,0 +1,14 @@
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\bin\Debug\net6.0\ValidarContraseñaV2.exe
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\bin\Debug\net6.0\ValidarContraseñaV2.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\bin\Debug\net6.0\ValidarContraseñaV2.runtimeconfig.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\bin\Debug\net6.0\ValidarContraseñaV2.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\bin\Debug\net6.0\ValidarContraseñaV2.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\obj\Debug\net6.0\ValidarContraseñaV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\obj\Debug\net6.0\ValidarContraseñaV2.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\obj\Debug\net6.0\ValidarContraseñaV2.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\obj\Debug\net6.0\ValidarContraseñaV2.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\obj\Debug\net6.0\ValidarContraseñaV2.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\obj\Debug\net6.0\refint\ValidarContraseñaV2.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\obj\Debug\net6.0\ValidarContraseñaV2.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\obj\Debug\net6.0\ValidarContraseñaV2.genruntimeconfig.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase4\Clase4\ValidarContraseñaV2\obj\Debug\net6.0\ref\ValidarContraseñaV2.dll

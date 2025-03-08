@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestionUI", "SistemaGestion\SistemaGestionUI.csproj", "{EBB0F21A-1A63-4A13-9596-ABF8469501F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SistemaGestionEntities", "SistemaGestionEntities", "{2A51D241-E93B-4D20-8E67-94484D56BD15}"
+	ProjectSection(SolutionItems) = preProject
+		Producto.cs = Producto.cs
+		ProductoVendido.cs = ProductoVendido.cs
+		Usuario.cs = Usuario.cs
+		Venta.cs = Venta.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SistemaGestionData", "SistemaGestionData", "{660EFAA2-460B-4D74-9091-C560A29630E0}"
+	ProjectSection(SolutionItems) = preProject
+		ProductoData.cs = ProductoData.cs
+		ProductoVendidoData.cs = ProductoVendidoData.cs
+		UsuarioData.cs = UsuarioData.cs
+		VentaData.cs = VentaData.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SistemaGestionBusiness", "SistemaGestionBusiness", "{FF062E86-36E3-4E7B-8E90-A57BBAEFF503}"
+	ProjectSection(SolutionItems) = preProject
+		ProductoBusiness.cs = ProductoBusiness.cs
+		ProductoVendidoBusiness.cs = ProductoVendidoBusiness.cs
+		UsuarioBusiness.cs = UsuarioBusiness.cs
+		VentaBusiness.cs = VentaBusiness.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SistemaGestionUI", "SistemaGestionUI", "{4E3C6526-92C1-4468-90C9-8FCD468E060A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{15E6EFBE-1145-46BD-B452-BAFFFCE3A17A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{1C9AACCC-0D9B-4A15-B3BD-98AEA8EA9E6B}"
+	ProjectSection(SolutionItems) = preProject
+		app SIN FINALIZAR.config = app SIN FINALIZAR.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB0F21A-1A63-4A13-9596-ABF8469501F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB0F21A-1A63-4A13-9596-ABF8469501F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB0F21A-1A63-4A13-9596-ABF8469501F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB0F21A-1A63-4A13-9596-ABF8469501F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E6EFBE-1145-46BD-B452-BAFFFCE3A17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E6EFBE-1145-46BD-B452-BAFFFCE3A17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E6EFBE-1145-46BD-B452-BAFFFCE3A17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E6EFBE-1145-46BD-B452-BAFFFCE3A17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EBB0F21A-1A63-4A13-9596-ABF8469501F1} = {4E3C6526-92C1-4468-90C9-8FCD468E060A}
+		{15E6EFBE-1145-46BD-B452-BAFFFCE3A17A} = {4E3C6526-92C1-4468-90C9-8FCD468E060A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D22C8FD-00EF-478C-8384-09BB7FE249E9}
+	EndGlobalSection
+EndGlobal

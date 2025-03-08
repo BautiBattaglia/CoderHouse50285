@@ -1,0 +1,16 @@
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\bin\Debug\net6.0-windows\#ALaCarta.exe
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\bin\Debug\net6.0-windows\#ALaCarta.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\bin\Debug\net6.0-windows\#ALaCarta.runtimeconfig.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\bin\Debug\net6.0-windows\#ALaCarta.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\bin\Debug\net6.0-windows\#ALaCarta.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\_ALaCarta.frmALaCarta.resources
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\#ALaCarta.csproj.GenerateResource.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\#ALaCarta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\#ALaCarta.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\#ALaCarta.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\#ALaCarta.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\#ALaCarta.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\refint\#ALaCarta.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\#ALaCarta.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\#ALaCarta.genruntimeconfig.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase6\Clase7\#ALaCarta\obj\Debug\net6.0-windows\ref\#ALaCarta.dll

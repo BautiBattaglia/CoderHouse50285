@@ -1,0 +1,14 @@
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\bin\Debug\net6.0\NoOlvidesTuPass.exe
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\bin\Debug\net6.0\NoOlvidesTuPass.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\bin\Debug\net6.0\NoOlvidesTuPass.runtimeconfig.json
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\bin\Debug\net6.0\NoOlvidesTuPass.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\bin\Debug\net6.0\NoOlvidesTuPass.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\obj\Debug\net6.0\NoOlvidesTuPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\obj\Debug\net6.0\NoOlvidesTuPass.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\obj\Debug\net6.0\NoOlvidesTuPass.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\obj\Debug\net6.0\NoOlvidesTuPass.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\obj\Debug\net6.0\NoOlvidesTuPass.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\obj\Debug\net6.0\refint\NoOlvidesTuPass.dll
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\obj\Debug\net6.0\NoOlvidesTuPass.pdb
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\obj\Debug\net6.0\NoOlvidesTuPass.genruntimeconfig.cache
+C:\Users\bautista\Documents\Coder House\C#\Clases\Clase3\NoOlvidesTuPass\obj\Debug\net6.0\ref\NoOlvidesTuPass.dll

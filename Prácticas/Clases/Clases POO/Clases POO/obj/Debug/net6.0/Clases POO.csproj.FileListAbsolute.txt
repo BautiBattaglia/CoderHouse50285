@@ -1,0 +1,14 @@
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\bin\Debug\net6.0\Clases POO.exe
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\bin\Debug\net6.0\Clases POO.deps.json
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\bin\Debug\net6.0\Clases POO.runtimeconfig.json
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\bin\Debug\net6.0\Clases POO.dll
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\bin\Debug\net6.0\Clases POO.pdb
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\obj\Debug\net6.0\Clases POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\obj\Debug\net6.0\Clases POO.AssemblyInfoInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\obj\Debug\net6.0\Clases POO.AssemblyInfo.cs
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\obj\Debug\net6.0\Clases POO.csproj.CoreCompileInputs.cache
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\obj\Debug\net6.0\Clases POO.dll
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\obj\Debug\net6.0\refint\Clases POO.dll
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\obj\Debug\net6.0\Clases POO.pdb
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\obj\Debug\net6.0\Clases POO.genruntimeconfig.cache
+C:\Users\bautista\Documents\Coder House\C#\Prácticas\Clases\Clases POO\Clases POO\obj\Debug\net6.0\ref\Clases POO.dll
